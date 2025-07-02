@@ -1,3 +1,4 @@
+LIVE APP ::  https://health-ai-assistant2-997dusv94tsd99uocywizr.streamlit.app/
 # 🧠 Human Health Analysis AI Assistant
 
 This project is a simple yet powerful AI assistant built using **Streamlit**, designed to provide general health and wellness insights based on user input. It uses rule-based logic or AI models (e.g., from Hugging Face) to analyze lifestyle habits such as sleep, diet, stress, and symptoms, and returns non-medical suggestions for improving well-being.
